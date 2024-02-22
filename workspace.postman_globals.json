@@ -1,0 +1,21 @@
+{
+	"id": "f617e0f6-be38-4c19-8310-41a47f9f87da",
+	"values": [
+		{
+			"key": "globalURL",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "url",
+			"value": "https://gorest.co.in",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"name": "Globals",
+	"_postman_variable_scope": "globals",
+	"_postman_exported_at": "2024-02-17T09:45:59.341Z",
+	"_postman_exported_using": "Postman/10.23.1"
+}
